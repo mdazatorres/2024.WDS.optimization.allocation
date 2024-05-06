@@ -1,4 +1,4 @@
-## Optimizing Spatial Distribution of Wastewater-Based Disease Surveillance to Advance Health Equity
+## Codes and data for article: Optimizing Spatial Distribution of Wastewater-Based Disease Surveillance to Advance Health Equity
 
 
 
